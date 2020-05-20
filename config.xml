@@ -17,8 +17,5 @@
       Don Donato
   </author>
  <icon src="icon.png"/>
-    xmlns:android="http://schemas.android.com/apk/res/android"
- <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
-    <application android:usesCleartextTraffic="true" />
- </edit-config>
+      <preference name="phonegap-version" value="cli-6.5.0"  
 </widget>
