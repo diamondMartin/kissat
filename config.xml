@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.donDonato.kissajakoira"
     versionCode = "10"
-    version     = "1.0.2" >
+    version     = "1.0.3" >
 
 <!-- versionCode is optional and Android only -->
 
@@ -17,5 +17,6 @@
       Don Donato
   </author>
  <icon src="icon.png"/>
-      <preference name="phonegap-version" value="cli-6.5.0"  
+      <preference name="phonegap-version" value="cli-6.5.0">  
+                  </preference>
 </widget>
